@@ -1,15 +1,15 @@
-# Django Cinema Booking Website
+# Django Website
 
 ## 📌 Project Overview
-This project is a **Django-based web application** for managing cinema bookings.  
-It includes a user authentication system and a booking management interface.
+This project is a **Django based web application** for writing reviews on events recently visited.  
+It includes a simple user authentication system and a booking management interface.
 
 ---
 
 ## ✨ Features
 - ✅ **User Authentication**  
   - Users can **log in** and **log out** securely.  
-  - Access to booking management is restricted to logged-in users.  
+  - Access to booking management is restricted to logged in users.  
 
 - ✅ **Booking Management Table**  
   - Add new bookings through a form.  
@@ -21,7 +21,7 @@ It includes a user authentication system and a booking management interface.
   - Uses a dropdown menu to navigate between pages.  
 
 - ✅ **Static Files Integration**  
-  - CSS, images, and JS are connected using Django’s static files system for consistent styling.
+  - CSS, images are connected using Django’s static files system for consistent styling.
 
 ---
 
