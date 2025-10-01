@@ -27,8 +27,7 @@ It includes a user authentication system and a booking management interface.
 
 ## 🛠️ Tech Stack
 - **Python & Django**  
-- **HTML5 / CSS3 / Bootstrap**  
-- **SQLite** (default database for development)  
+- **HTML5 / CSS3**    
 - **Django Templates and Static Files**
 
 <img width="1901" height="915" alt="image" src="https://github.com/user-attachments/assets/418af378-7c4a-455d-8090-b8c0d00808f2" />
